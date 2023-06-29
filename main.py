@@ -1,6 +1,3 @@
-#tech stacks being used: pytorch, numpy, asyncio, collections, random
-#WebAssembly -->converts the python code to binary which then can be used to run in the browser
-import asyncio
 import numpy as np
 import random
 import torch
